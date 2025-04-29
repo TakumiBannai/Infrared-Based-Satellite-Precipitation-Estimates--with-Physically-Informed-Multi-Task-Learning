@@ -40,3 +40,13 @@ The model implementation includes:
    - `eval_chunk.py`: Evaluation functions
    - `generate_dailyPred.py`: Inference Daily prediction result
 
+3. **Data Processing and Visualization**:
+   - `make_data_for_fig.py`: Data processing for figure generation
+     - Functions for data loading and preprocessing
+     - Daily aggregation (mean/sum) calculations
+   - `vis_data_for_fig.py`: Visualization tools
+     - Scatter plots with regression lines
+     - Residual boxplots
+     - RMSE analysis by precipitation intensity
+     - Kernel density estimation plots
+
