@@ -1,4 +1,4 @@
-# MTL_IR-retrieval
+# Enhancing Infrared-Based Satellite Precipitation Estimates with Physically Informed Multi-Task Learning
 
 This repository contains a Multi-Task Learning (MTL) model for Infrared (IR) retrieval of precipitation data. The project processes various meteorological data sources and uses them to train a deep learning model for precipitation estimation.
 
